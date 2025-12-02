@@ -32,7 +32,7 @@
 ---
 
 ## Структура проекта
-
+```
 marketplace_dataton/
 │
 ├─ notebooks/
@@ -41,3 +41,4 @@ marketplace_dataton/
 │   └─ marketplace.csv
 ├─ README.md
 └─ .gitignore
+```
