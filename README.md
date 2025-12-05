@@ -39,6 +39,10 @@ marketplace_dataton/
 │   └─ analysis.ipynb
 ├─ data/
 │   └─ marketplace.csv
+├─ graphics/
+│   └─ percent only returns by age group.png
+│   └─ percent only returns by browser.png
 ├─ README.md
+├─ requirements.txt
 └─ .gitignore
 ```
