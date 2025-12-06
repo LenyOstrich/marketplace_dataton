@@ -50,6 +50,7 @@ nbconvert==7.16.6
 nbdime==4.0.2
 nbformat==5.10.4
 nest-asyncio==1.6.0
+numpy==2.3.5
 packaging==25.0
 pandas==2.3.3
 pandocfilters==1.5.1
